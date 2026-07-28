@@ -21,7 +21,7 @@
 
   var STR = {
     pl: {
-      hint: 'Zgadzasz się? Kliknij od razu narożnik. Nie zgadzasz się? Najpierw kliknij środek. Możesz też nie klikać wcale — brak oceny znaczy „nie wiem”.',
+      hint: 'Zgadzasz się? Kliknij od razu narożnik. Nie zgadzasz się? Najpierw kliknij środek. Celuj w sam środek wybranego trójkąta, nie w krawędź. Możesz też nie klikać wcale — brak oceny znaczy „nie wiem”.',
       middle: { t: 'środek: PRAWDA — kliknij, jeśli to nieprawda', f: 'środek: FAŁSZ — kliknij, by wrócić do prawdy' },
       corner: { neutral: 'obojętne', good: 'podoba mi się', bad: 'nie podoba mi się' },
       labels: { '1g': 'PRAWDA', '1b': 'PRAWDA + DOBRE', '1r': 'PRAWDA + ZŁE', '0g': 'FAŁSZ', '0b': 'FAŁSZ + DOBRE', '0r': 'FAŁSZ + ZŁE', '7': 'NIE WIEM' },
@@ -31,7 +31,7 @@
       undo: 'Cofnij ocenę', undone: 'ocena cofnięta'
     },
     en: {
-      hint: 'Agree? Click a corner right away. Disagree? Click the middle first. You may also not click at all — no rating means “I don’t know”.',
+      hint: 'Agree? Click a corner right away. Disagree? Click the middle first. Aim for the middle of the triangle you choose, not its edge. You may also not click at all — no rating means “I don’t know”.',
       middle: { t: 'middle: TRUE — click if you think this is false', f: 'middle: FALSE — click to switch back to true' },
       corner: { neutral: 'neutral', good: 'I like it', bad: 'I don’t like it' },
       labels: { '1g': 'TRUE', '1b': 'TRUE AND GOOD', '1r': 'TRUE AND BAD', '0g': 'FALSE', '0b': 'FALSE AND GOOD', '0r': 'FALSE AND BAD', '7': 'UNKNOWN' },
