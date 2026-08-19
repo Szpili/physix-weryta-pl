@@ -1,6 +1,6 @@
 /* Fairy Dice — Weryta answer-rating widget. No dependencies.
  *
- * Two independent axes per answer (scheme: girltech.me/PR/):
+ * Two independent axes per answer (scheme: nerdwar.one/PR/):
  *   base   black = TRUE (agree) | white = FALSE (disagree)
  *   apex   green = neutral | blue = good (like) | red = bad (dislike)
  *
